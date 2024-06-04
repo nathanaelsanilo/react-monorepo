@@ -1,0 +1,19 @@
+{
+  "name": "@mono/configs",
+  "version": "1.0.0",
+  "description": "",
+  "exports": {
+    "./tw-config": "./tw-config.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/container-queries": "^0.1.1",
+    "@tailwindcss/forms": "^0.5.7",
+    "tailwindcss": "^3.4.3"
+  }
+}
